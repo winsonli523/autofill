@@ -1,2 +1,3 @@
 # hotdog
-a big dog
+Hi humans!
+This is my first time to used this
